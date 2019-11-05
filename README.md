@@ -3,7 +3,7 @@ This repository includes (extremely preliminary) code to detect four variants of
 
 (1) 'Pinging' or repetitious statements <br>
 (2) Solicitations for money <br>
-(3) Requests for personal informatin (PI) <br>
+(3) Requests for personal information (PI) <br>
 (4) Requests to meet in person <br>
 
 Functionality for detecting affirmative responses to inappropriate solicitations is also included.
