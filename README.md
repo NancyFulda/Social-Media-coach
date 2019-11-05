@@ -1,4 +1,4 @@
-## Overview
+## Social Media coach
 This repository includes (extremely preliminary) code to detect four variants of inappropriate social media behavior including:
 
 (1) 'Pinging' or repetitious statements <br>
